@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 and CSS3" />
 </p>
 
+## 🚀 Live Application
+
+👉 Click here to open the **FoodBridge Application Link**: [https://your-foodbridge-app-link.streamlit.app/](https://your-foodbridge-app-link.streamlit.app/)
+
 ---
 
 ## 📑 Table of Contents
