@@ -30,7 +30,7 @@ Restaurants, cafés and event organizers may have safe surplus food at the end o
 - Role checks restrict actions to the appropriate user type.
 
 ### Software / hardware
-- Java 17+, Maven, Spring Boot, Thymeleaf, HTML/CSS
+- Java 25+, Maven, Spring Boot, Thymeleaf, HTML/CSS
 - MySQL 8+, Spring Data JPA
 - Draw.io for DFD and use case diagrams
 - Computer with internet/browser and enough memory to run Java and MySQL

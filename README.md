@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 25" />
   <img src="https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Thymeleaf-Template-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
@@ -21,8 +21,7 @@
 </p>
 
 ## 🚀 Live Application
-
-👉 Click here to open the **FoodBridge Application Link**: [https://your-foodbridge-app-link.streamlit.app/](https://your-foodbridge-app-link.streamlit.app/)
+👉 Click here to open the [FoodBridge Application](http://localhost:8501/)
 
 ---
 
@@ -50,7 +49,7 @@
 
 Food waste and food insecurity are significant challenges that affect communities worldwide. Restaurants and cafés often have safe surplus food that remains unused, while NGOs work to provide food to people in need.
 
-**FoodBridge** is a web-based food donation and management platform developed using Java 17 and Spring Boot. It connects restaurants and cafés with verified NGOs, making it easier to publish, discover, accept, and manage surplus food donations.
+**FoodBridge** is a web-based food donation and management platform developed using Java 25 and Spring Boot. It connects restaurants and cafés with verified NGOs, making it easier to publish, discover, accept, and manage surplus food donations.
 
 The application includes role-based access, administrator verification, donation status tracking, and database-driven dashboard statistics to support an organized food donation process.
 
@@ -135,7 +134,7 @@ This workflow helps restaurants, NGOs, and administrators monitor donation progr
 
 | Technology | Purpose |
 |---|---|
-| Java 21 | Core programming language |
+| Java 25 | Core programming language |
 | Spring Boot | Application configuration and backend development |
 | Spring MVC | Web request handling and controller logic |
 | Thymeleaf | Dynamic HTML page rendering |
@@ -162,7 +161,7 @@ This separation helps keep the application's user interface, request handling, a
 
 Install the following software:
 
-- Java Development Kit (JDK) 21 or later
+- Java Development Kit (JDK) 25 or later
 - Apache Maven 3.9 or later
 - MySQL 8 or later
 - An IDE such as IntelliJ IDEA, Eclipse, or VS Code
