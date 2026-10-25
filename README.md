@@ -22,6 +22,26 @@
 
 ---
 
+## 📑 Table of Contents
+
+* [About the Project](#-about-the-project)
+* [Key Features](#-key-features)
+  * [Restaurant Portal](#-restaurant-portal)
+  * [NGO Portal](#-ngo-portal)
+  * [Admin Dashboard](#-admin-dashboard)
+  * [Security & Architecture](#-security--architecture)
+* [Donation Lifecycle Workflow](#-donation-lifecycle-workflow)
+* [Technology Stack](#-technology-stack)
+* [Application Architecture](#-application-architecture)
+* [Getting Started](#-getting-started)
+  * [Prerequisites](#-prerequisites)
+  * [Installation & Setup](#-installation--setup)
+* [Future Enhancements](#-future-enhancements)
+* [Social Impact](#-social-impact)
+* [Contributors](#-contributors)
+
+  ---
+
 ## 🌍 About the Project
 
 Food waste and food insecurity are significant challenges that affect communities worldwide. Restaurants and cafés often have safe surplus food that remains unused, while NGOs work to provide food to people in need.
