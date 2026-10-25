@@ -85,7 +85,7 @@ This workflow helps restaurants, NGOs, and administrators monitor donation progr
 
 | Technology | Purpose |
 |---|---|
-| Java 17 | Core programming language |
+| Java 21 | Core programming language |
 | Spring Boot | Application configuration and backend development |
 | Spring MVC | Web request handling and controller logic |
 | Thymeleaf | Dynamic HTML page rendering |
@@ -112,7 +112,7 @@ This separation helps keep the application's user interface, request handling, a
 
 Install the following software:
 
-- Java Development Kit (JDK) 17 or later
+- Java Development Kit (JDK) 21 or later
 - Apache Maven 3.9 or later
 - MySQL 8 or later
 - An IDE such as IntelliJ IDEA, Eclipse, or VS Code
