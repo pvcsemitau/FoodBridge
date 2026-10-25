@@ -229,9 +229,14 @@ FoodBridge demonstrates how technology can help organizations coordinate food do
 
 By connecting restaurants and cafés with verified NGOs, the platform aims to support more efficient food redistribution, reduce avoidable food waste, and encourage community collaboration.
 
-## 👩‍💻 Contributors
+## 👥 Team Members & Contributions
 
-Add the names of the students who contributed to the project.
+| Name | Roll Number | Role | Key Contributions |
+| :--- | :--- | :--- | :--- |
+| **Rafeeka Jamal Maideen** | `2025503080` | Team Lead & Architecture | SRS, System Architecture, DFD & Use Case Diagrams |
+| **Vaishnavi P** | `2025503078` | Algorithm & Logic | Donation Filtering Algorithm, Expiry Prioritisation, Data Structures, Edge Cases |
+| **Leepaakshi S** | `2025503570` | GUI & Visual Layout | Responsive Web Interface, Interactive Donation Grid, Dashboard Components |
+| **Chitrita M** | `2025503568` | Database & Reports | Data Models, Donation Tracking, Impact Reports, Export Engine, README |
 
 ---
 
