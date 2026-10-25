@@ -101,6 +101,32 @@ The application includes role-based access, administrator verification, donation
 
 This workflow helps restaurants, NGOs, and administrators monitor donation progress.
 
+## 📊 System Architecture & Tech Stack
+
+```text
++-------------------------------------------------------+
+|                Presentation / Web Layer               |
+|         (Thymeleaf / REST APIs, Controllers)          |
++-------------------------------------------------------+
+                           |
+                           ▼
++-------------------------------------------------------+
+|                 Business Logic Layer                  |
+|       (Spring Services, DTOs, Validation, Spring)     |
++-------------------------------------------------------+
+                           |
+                           ▼
++-------------------------------------------------------+
+|               Data Access / JPA Layer                 |
+|         (Spring Data JPA Repositories, Entities)      |
++-------------------------------------------------------+
+                           |
+                           ▼
++-------------------------------------------------------+
+|                   Relational Database                 |
+|             (MySQL 8.0: FoodBridge Schema)            |
++-------------------------------------------------------+
+
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
