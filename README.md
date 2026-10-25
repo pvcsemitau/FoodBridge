@@ -181,6 +181,22 @@ git clone <your-repository-url>
 cd FoodBridge
 ```
 
+## 📊 System Diagrams (Draw.io)
+
+* **Interactive Viewer Links:** 
+  * [View Complete System Diagrams on Draw.io](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=LEVEL%200.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1lWL093P3w4nNT-_YPm6HX1zEYIw4pKnE%26export%3Ddownload)
+  * [Use Case Diagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=LEVEL%200.drawio&page-id=cm8xX6G3Lt7IbaahqvnE&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1lWL093P3w4nNT-_YPm6HX1zEYIw4pKnE%26export%3Ddownload)
+  * [Data Flow Diagram (DFD Level 0 - Context)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=LEVEL%200.drawio&page-id=7yAa6GqYiNhXIMBKF0hm&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1lWL093P3w4nNT-_YPm6HX1zEYIw4pKnE%26export%3Ddownload)
+  * [Data Flow Diagram (DFD Level 1 - Detailed)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=LEVEL%200.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1lWL093P3w4nNT-_YPm6HX1zEYIw4pKnE%26export%3Ddownload)
+
+* **Included Diagrams in `foodbridge_diagrams.xml`:**
+  1. **Use Case Diagram:** Interacting roles (Admin, Donor, Recipient / User).
+  2. **Data Flow Diagram (Level 0 - Context):** High-level system data boundary for FoodBridge.
+  3. **Data Flow Diagram (Level 1 - Detailed):** Modular data stores and process flows.
+  4. **Entity Relationship Diagram (ERD):** MySQL database tables, relations, and foreign keys.
+
+> **How to Import & View:** Go to [Draw.io](https://app.diagrams.net/) $\rightarrow$ Click **File** > **Open From** > **Device** $\rightarrow$ Select your exported `.xml` diagram file.
+
 ## 🗄️ Database Management
 
 FoodBridge uses MySQL for persistent data storage and Spring Data JPA for database access.
