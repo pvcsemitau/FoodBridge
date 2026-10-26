@@ -21,7 +21,7 @@
 </p>
 
 ## 🚀 Live Application
-👉 Click here to open the [FoodBridge Application](http://localhost:8501/)
+👉 Click here to open the [FoodBridge Application](https://foodbridge-app-sjot.onrender.com/)
 
 ---
 
